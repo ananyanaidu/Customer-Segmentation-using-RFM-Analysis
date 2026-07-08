@@ -45,5 +45,4 @@ RFM analysis is a proven marketing model for behavior-based customer segmentatio
 3.  💰 **Monetary Value (M):** Total money spent. *Higher is better.*
 
 
-  <b>🌟 Completed as part of the Syntecxhub Data Analysis Internship Program 🌟</b>
-</div>
+  

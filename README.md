@@ -1,15 +1,6 @@
 # Customer-Segmentation-using-RFM-Analysis
 # 📊 Customer Segmentation using RFM Analysis
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Author-Aditya_Gandhi-blue?style=for-the-badge" alt="Author">
-  <img src="https://img.shields.io/badge/Program-Syntecxhub_Internship-purple?style=for-the-badge" alt="Program">
-  <img src="https://img.shields.io/badge/Track-Data_Analysis-orange?style=for-the-badge" alt="Track">
-  <br>
-  <img src="https://img.shields.io/badge/Tool-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-</div>
-
----
 
 ## 📝 Project Overview
  The goal of this project is to analyze transactional customer data and segment the customer base using **RFM (Recency, Frequency, Monetary)** analysis. 
@@ -53,28 +44,6 @@ RFM analysis is a proven marketing model for behavior-based customer segmentatio
 2.  🔄 **Frequency (F):** Total number of purchases. *Higher is better.*
 3.  💰 **Monetary Value (M):** Total money spent. *Higher is better.*
 
-```mermaid
-graph LR
-    subgraph Data Processing
-        A[(Raw Sales Data)] --> B[Data Cleaning]
-        B --> C[Calculate R, F, M]
-    end
-    subgraph Scoring & Segmentation
-        C --> D[Assign Scores 1-5]
-        D --> E{Combine RFM}
-        E -->|High R, High F, High M| F((Champions))
-        E -->|Low R, High F, High M| G((At Risk))
-        E -->|High R, Low F, Low M| H((New Customers))
-    end
-    
-    classDef default fill:#f9f9f9,stroke:#333,stroke-width:2px;
-    classDef highlight fill:#d4edda,stroke:#28a745,stroke-width:2px;
-    classDef warning fill:#f8d7da,stroke:#dc3545,stroke-width:2px;
-    
-    class F highlight;
-    class G warning;
 
-
-<div align="center">
   <b>🌟 Completed as part of the Syntecxhub Data Analysis Internship Program 🌟</b>
 </div>

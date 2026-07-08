@@ -44,5 +44,8 @@ RFM analysis is a proven marketing model for behavior-based customer segmentatio
 2.  🔄 **Frequency (F):** Total number of purchases. *Higher is better.*
 3.  💰 **Monetary Value (M):** Total money spent. *Higher is better.*
 
+## 📸 Dashboard Preview
 
+[Dashboard]<img width="1920" height="1080" alt="Screenshot (705)" src="https://github.com/user-attachments/assets/a24035ee-89d3-4537-af62-d6b20f6949c3" />
+" />
   

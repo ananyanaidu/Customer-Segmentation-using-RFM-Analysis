@@ -46,6 +46,17 @@ RFM analysis is a proven marketing model for behavior-based customer segmentatio
 
 ## 📸 Dashboard Preview
 
-[Dashboard]<img width="1920" height="1080" alt="Screenshot (705)" src="https://github.com/user-attachments/assets/a24035ee-89d3-4537-af62-d6b20f6949c3" />
-" />
+[Dashboard]<img width="1129" height="610" alt="image" src="https://github.com/user-attachments/assets/8acdffa0-0337-458a-8e4d-4c08110348d7" />
+
+
+<img width="1142" height="621" alt="image" src="https://github.com/user-attachments/assets/24b510bd-209e-45b9-970a-e9555ed93cf7" />
+
+<img width="1143" height="626" alt="image" src="https://github.com/user-attachments/assets/a1b3cda8-526a-4fb1-b3d1-eb76c173074b" />
+
+<img width="1149" height="636" alt="image" src="https://github.com/user-attachments/assets/0b5693cb-ff4e-4e16-8378-524437fa135c" />
+
+
+
+
+
   
